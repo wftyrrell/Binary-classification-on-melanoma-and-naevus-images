@@ -1,4 +1,4 @@
-#  Binary classification on melanoma and-naevus images Project
+#  Binary classification on melanoma and naevus images Project
 
 This project is part of the CS4341 course, focusing on implementing and analyzing various algorithms.
 
